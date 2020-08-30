@@ -1,4 +1,5 @@
 # AR-Browser - CSC13010 - Software Design
+- This Project for Android
 ## Install Pakages for Server
 Install Homebrew
 ```sh
