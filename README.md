@@ -64,3 +64,4 @@ ReferenceError: primordials is not defined
 ```sh
 $ node install
 ```
+2. Build -> Copy file to Android Device
